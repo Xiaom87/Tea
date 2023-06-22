@@ -1,0 +1,14 @@
+[
+	{
+		"id":1,
+		"title": "Pumpkin soup classic",
+		"itemsInBox": 6,
+		"weight": 180,
+		"price": 300,
+		"imgSrc": "classic pumpkin soup.jpg"
+	},
+	
+	2,
+	3,
+	4
+]
